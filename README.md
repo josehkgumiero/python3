@@ -28,6 +28,7 @@
 
 ###### Quick Refresher
 - Type hierarchy - [type_hierarchy.md](type_hierarchy.md)
+- Multi-line statement - [multi_line_statement.md](multi_line_statement.md)
 - Variabel and Memory
 - Numeric Types
 - Functions

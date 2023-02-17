@@ -1,4 +1,4 @@
-###### TYpe Hierarchy
+###### Type Hierarchy
 - Numbers
     - Inetgral
         - Integers
