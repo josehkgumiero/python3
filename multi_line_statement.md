@@ -2,8 +2,7 @@
 - physical lines of code
     - logical lines of code
         - tokenized
-End with a physical newline character, end with a logical newline token.
-Sometimes physical newliners are ignored in order to combine multiple physical line into a sigle logical line of code terminated by a logical newline token. Conversion can be explicit or iplicit.
+            - End with a physical newline character, end with a logical newline token. Sometimes physical newliners are ignored in order to combine multiple physical line into a sigle logical line of code terminated by a logical newline token. Conversion can be explicit or iplicit.
 - Implicit
 ```
 #list 

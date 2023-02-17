@@ -1,9 +1,9 @@
 ###### Introduction
 
-- The Python language
-- The Built types
-- THe Standard library
-- Becoming expert Python Developer
+- The Python language.
+- The Built types.
+- The Standard library.
+- Becoming expert Python Developer.
 
 ###### Zen of Python
 - Beautifull is better than ugly.
