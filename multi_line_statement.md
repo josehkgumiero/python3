@@ -36,13 +36,13 @@ def my_func(
     print(a,b,c)
 ```
 - Explicit
-Ypou can break up statements over multiple lines explicit, by using \(backslash) character. Comments can not be part of a statement, not even a multi-line statement.
+    - You can break up statements over multiple lines explicit, by using \(backslash) character. Comments can not be part of a statement, not even a multi-line statement.
 ```
 if a \
     and b \
     and c:
 ```
-- Muli-lie string literals
+- Muli-line string literals
 Multi-line string lietrals can be createdusing riple demiliters (' single or " double)
 ```
 ''' this is 
