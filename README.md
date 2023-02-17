@@ -27,7 +27,7 @@
 - Namespaces are one hoking great idea - let's do more of those!
 
 ###### Quick Refresher
-- Type hierachy - (type_hierachy.md)[type_hierachy.md]
+- Type hierarchy - [type_hierarchy.md](type_hierarchy.md)
 - Variabel and Memory
 - Numeric Types
 - Functions
