@@ -1,0 +1,36 @@
+###### TYpe Hierarchy
+- Numbers
+    - Inetgral
+        - Integers
+        - Booleans
+    - Non-Integral
+        - Floats
+        - Complex
+        - Decimals
+        - Fractions
+- Collections
+    - Sequences
+        - Mutable
+            - Lists
+        - Immutable
+            - Tuples
+            - Strings
+    - Sets
+        - Mutable
+            - Sets
+        - Immutable
+            - Frozen Sets
+    - Mappings
+        - Dictionaries
+- Callables
+    - User-defined Functions
+    - Generators
+    - Classes
+    - Instance methods
+    - Class Instances
+    - Built-in functions
+    - Built-in methods
+- Singletons
+    - None
+    - Noimplemented
+    - Ellipsis
