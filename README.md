@@ -31,7 +31,7 @@
 - Multi-line statement - [multi_line_statement.md](multi_line_statement.md)
 - Variable and Memory - [variable_memory.md](variable_memory.md)
 - Numeric Types
-- Functions
+- Functions - [functions.md](functions.md)
 - Decorators
 - Tuples
 - Modules, Packages and Namoespace
