@@ -35,7 +35,8 @@
 - Decorators
 - Tuples
 - Modules, Packages and Namoespace
-- Conditionals
+- Conditionals - [conditionals.md](conditionals.md)
+- While Loop - [while_loop.md](while_loop.md)
 - Loops
 - Break, Continue and Try
 - Classes
