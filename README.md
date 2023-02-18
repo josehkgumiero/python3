@@ -34,9 +34,9 @@
 - Functions - [functions.md](functions.md)
 - Decorators
 - Tuples
-- Modules, Packages and Namoespace
+- Modules, Packages and Namespace
 - Conditionals - [conditionals.md](conditionals.md)
 - While Loop - [while_loop.md](while_loop.md)
-- Loops
+- For loop - [for_loop.md](for_loop.md)
 - Break, Continue and Try - [break_continue_try.md](break_continue_try.md)
 - Classes
