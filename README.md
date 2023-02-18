@@ -39,4 +39,4 @@
 - While Loop - [while_loop.md](while_loop.md)
 - For loop - [for_loop.md](for_loop.md)
 - Break, Continue and Try - [break_continue_try.md](break_continue_try.md)
-- Classes
+- Classes - [claases.py](claases.py)
