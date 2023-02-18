@@ -38,5 +38,5 @@
 - Conditionals - [conditionals.md](conditionals.md)
 - While Loop - [while_loop.md](while_loop.md)
 - Loops
-- Break, Continue and Try
+- Break, Continue and Try - [break_continue_try.md](break_continue_try.md)
 - Classes
